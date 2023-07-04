@@ -14,13 +14,13 @@ PokemonFinder is a web application built with Next.js, styled with Tailwind CSS 
 1. Clone the repository:
 
    ```shell
-   git clone https://github.com/your-username/pokemon-finder.git
+   git clone https://github.com/VansRouges/PokemonFinder.git
    ```
 
 2. Install the dependencies:
 
    ```shell
-   cd pokemon-finder
+   cd PokemonFinder
    npm install
    ```
 

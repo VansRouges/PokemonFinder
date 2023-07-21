@@ -1,4 +1,6 @@
 # PokemonFinder
+![image](https://github.com/VansRouges/PokemonFinder/assets/67249759/54764e39-d701-4f86-b6f9-708fcbecfd5c)
+
 
 PokemonFinder is a web application built with Next.js, styled with Tailwind CSS and Shadcn UI. It leverages TypeScript for type safety and integrates with the Pokemon API to provide a search feature for finding Pokemon data.
 
@@ -14,13 +16,13 @@ PokemonFinder is a web application built with Next.js, styled with Tailwind CSS 
 1. Clone the repository:
 
    ```shell
-   git clone https://github.com/your-username/pokemon-finder.git
+   git clone https://github.com/VansRouges/PokemonFinder.git
    ```
 
 2. Install the dependencies:
 
    ```shell
-   cd pokemon-finder
+   cd PokemonFinder
    npm install
    ```
 
